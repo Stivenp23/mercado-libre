@@ -1,6 +1,6 @@
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import Home from "./pages/home";
-import DetailsProduct from "./pages/details-product";
+import Home from "./pages/home/home";
+import DetailsProduct from "./pages/details-product/details-product";
 
 function App() {
     return (
