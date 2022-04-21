@@ -1,0 +1,18 @@
+header {
+    background-color: #fff159;
+    padding: 0.4rem 0;
+    .logo{
+        height: 100%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{
+            width: 100%;
+            max-width: 134px;
+        }
+    }
+    .input-container{
+        height: 100%;
+    }
+}
